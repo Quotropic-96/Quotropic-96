@@ -2,7 +2,15 @@
 
 **`Full-Stack Developer`**
 
-### 🧰 Languages and Tools
+Hello, and welcome to my GitHub profile!
+
+As a software developer and pysicist, I'm passionate about building projects that make a positive impact in the community. To achieve this goal, I use a variety of technologies, including JavaScript, CSS, HTML, Express.js, MongoDB, Node.js, React.js (currently learning at IronHack Barcelona), and Python.
+
+My projects range from web applications to data analysis tools, and I'm always looking for new ways to use technology to solve real-world problems. 
+
+If you're interested in seeing some of my work, please take a look at my repositories. And if you have any questions or ideas for collaboration, please feel free to reach out!
+
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -11,21 +19,7 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fpreview%2Fwhite%2Fgithub-9-xxl.png&f=1&nofb=1&ipt=facae543149a55b0f7b0c2950c3eb59c8d3d3f87e8b3e6751636cbe7ac8f5de1&ipo=images)" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-<!--
-**Quotropic-96/Quotropic-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
