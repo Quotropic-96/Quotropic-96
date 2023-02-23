@@ -10,10 +10,8 @@ My projects range from web applications to data analysis tools, and I'm always l
 
 If you're interested in seeing some of my work, please take a look at my repositories. And if you have any questions or ideas for collaboration, please feel free to reach out!
 
-<div style="page-break-after: always;"></div>
-
 ### Languages and Tools
-
+#
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,7 +21,5 @@ If you're interested in seeing some of my work, please take a look at my reposit
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-
-<div style="page-break-after: always;"></div>
-
+#
 **`Contact: gerardsolanes@icloud.com`**
