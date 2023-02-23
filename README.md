@@ -21,5 +21,5 @@ If you're interested in seeing some of my work, please take a look at my reposit
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-
+<br />
 **`Contact: gerardsolanes@icloud.com`**
