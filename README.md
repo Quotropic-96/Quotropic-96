@@ -4,7 +4,7 @@
 
 Hello, and welcome to my GitHub profile!
 
-As a software developer and pysicist, I'm passionate about building projects that make a positive impact in the community. To achieve this goal, I use a variety of technologies, including JavaScript, CSS, HTML, Express.js, MongoDB, Node.js, React.js (currently learning at IronHack Barcelona), and Python.
+As a software developer and pysicist, I'm passionate about building projects that make a positive impact in the community. To achieve this goal, I use a variety of technologies, including React.js, JavaScript, CSS, HTML, Express.js, MongoDB, Node.js, and Python.
 
 My projects range from web applications to data analysis tools, and I'm always looking for new ways to use technology to solve real-world problems. 
 
