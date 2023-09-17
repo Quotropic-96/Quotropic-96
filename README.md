@@ -29,4 +29,6 @@ If you're interested in seeing some of my work, please take a look at my reposit
 
 #
 
+**`Portfolio: www.quodevelopment.com`**
+
 **`Contact: gerardsolanes@icloud.com`**
